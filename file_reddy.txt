@@ -1,0 +1,2 @@
+select * from table1
+where name = 'reddy'
